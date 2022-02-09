@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Secilia&#39;s Blog</title>
   
-  
+  <subtitle>Secilia</subtitle>
   <link href="http://secilia-cxy.github.io/atom.xml" rel="self"/>
   
   <link href="http://secilia-cxy.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://secilia-cxy.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Secilia</name>
     
   </author>
   
