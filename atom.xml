@@ -6,7 +6,7 @@
   <link href="http://secilia-cxy.github.io/atom.xml" rel="self"/>
   
   <link href="http://secilia-cxy.github.io/"/>
-  <updated>2022-07-17T03:39:03.375Z</updated>
+  <updated>2022-02-09T15:00:10.266Z</updated>
   <id>http://secilia-cxy.github.io/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://secilia-cxy.github.io/2022/07/17/test/"/>
-    <id>http://secilia-cxy.github.io/2022/07/17/test/</id>
-    <published>2022-07-17T03:39:03.000Z</published>
-    <updated>2022-07-17T03:39:03.375Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
